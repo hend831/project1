@@ -44,6 +44,3 @@ print(X)
 l=[5,8,9,7,3,1]
 l.sort()
 print(l)
-
-print("This is the first project")
-
